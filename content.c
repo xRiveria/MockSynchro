@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("cream");
+        printf("ywlou");
 return 0;
 }
