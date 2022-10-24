@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("yykvb");
+        printf("ndcrg");
 return 0;
 }
