@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("jypcx");
+        printf("qpoly");
 return 0;
 }
