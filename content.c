@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("qpoly");
+        printf("kuwik");
 return 0;
 }
