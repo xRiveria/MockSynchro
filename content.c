@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("eefie");
+        printf("peklg");
 return 0;
 }
