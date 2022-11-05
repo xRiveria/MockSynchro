@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("peklg");
+        printf("wivpj");
 return 0;
 }
