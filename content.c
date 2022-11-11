@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("mwlei");
+        printf("ppaij");
 return 0;
 }
