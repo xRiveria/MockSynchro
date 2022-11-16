@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("pafxe");
+        printf("ansgt");
 return 0;
 }
