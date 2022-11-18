@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("gsxtd");
+        printf("pjdmr");
 return 0;
 }
