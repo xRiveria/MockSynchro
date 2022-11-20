@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("mosus");
+        printf("eqarv");
 return 0;
 }
