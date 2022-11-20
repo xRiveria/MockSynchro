@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("ahfld");
+        printf("mosus");
 return 0;
 }
