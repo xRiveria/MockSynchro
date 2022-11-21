@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("stxme");
+        printf("wnsng");
 return 0;
 }
