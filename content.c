@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("wnsng");
+        printf("sitpa");
 return 0;
 }
