@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("sitpa");
+        printf("dojek");
 return 0;
 }
