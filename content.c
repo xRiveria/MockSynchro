@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("hwbcy");
+        printf("wkccp");
 return 0;
 }
