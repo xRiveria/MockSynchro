@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("dnmlt");
+        printf("gmngx");
 return 0;
 }
