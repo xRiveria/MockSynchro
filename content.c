@@ -1,6 +1,6 @@
 # include <stdio.h>
 
 int main() {
-        printf("ymqoc");
+        printf("ihlef");
 return 0;
 }
